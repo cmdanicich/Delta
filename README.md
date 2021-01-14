@@ -1,0 +1,2 @@
+# Delta
+Business Intelligence homework 
